@@ -1,0 +1,316 @@
+*{
+    margin: 0;
+}
+.flex{
+width:100%;
+
+}
+
+.content{
+    width: 70vw;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#banner{
+    width:100%;
+    margin-bottom:-6px;
+}
+h2{
+    color: white;
+}
+table{
+    width: 100%;
+    flex-direction:row;
+}
+tr{
+    flex-direction:column;
+}
+
+.box :hover{
+    text-decoration: underline;
+}
+table{
+    width: 100%;
+    border-top:none;
+    border-right: none;
+    border-left: none;
+    margin-top:-3px;
+}
+tr{
+    width: 100%;
+    margin-top: 0;
+}
+td{
+    width: 100%;
+}
+
+
+#content{
+    width: 50%;
+    margin-top: 60px;
+    margin-bottom: 60px;
+    
+    border-radius: 10px;
+   
+    
+}
+#content2{
+    width: 150px;
+    margin-top: 30px;
+    margin-bottom: 00px;
+    border-radius: 150px;
+}
+.box2{
+    text-align: center;
+}
+#content3{
+    width: 300px;
+    margin-top: 20px;
+}
+.box3{
+    text-align: center;
+    margin-top: 20px;
+}
+.small{
+    background-color: rgb(255, 14, 14);
+    color: white;
+    margin-top:-2px;
+    
+}
+.top-article{
+    background-color: rgb(255, 14, 14);
+    color: white;
+
+
+}
+td{
+    margin-top: 20px;
+}
+
+
+p{ 
+    color: rgb(56, 54, 54);
+    margin: 70px;
+    margin-top: 10px;
+    margin-bottom: 50px;
+}
+.small2{
+    background-color: rgb(255, 136, 38);
+    color: white;
+}
+a{
+    margin: 20px;
+    color: rgb(63, 127, 255);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-decoration: none;
+
+}
+#sf{
+    border-radius: 100px;
+}
+h4{
+    margin-top: 25px;
+    color: rgb(42, 41, 41);
+
+}
+
+.small3{
+    background-color: rgb(255, 22, 22);
+    color: white;
+    margin-top: 15px;
+}
+.box4{
+    background-color:rgb(105, 103, 100);
+}
+#nextpage{
+    margin-top: 150px;
+    
+    background-color: royalblue;
+    font-size: 15px;
+    color: white;
+}
+#arrow{
+
+    color:white;
+}
+button{
+    font-size: 15px;
+}
+#pages{
+    color: white;
+    text-decoration-line:none;
+
+}
+.article{
+    background-color: rgb(248, 21, 21);
+  
+
+}
+.monsoon-bg{
+    background:url(bg3.jfif);
+}
+.about-section{
+    background: url(bg2.jfif);
+}
+#td2{
+    width: 100%;
+}
+#photos{
+    color: white;
+    text-decoration-line:none;
+}
+#food{
+    color: white;
+    text-decoration-line:none;
+}
+#nex{
+    color: white;
+}
+#arrow{
+    color: white;
+}
+#cdetails{
+    color: white;
+    font-size: 20px;
+}
+#contact2{
+    margin-top: 20px;
+    height: 15px;
+    width: 20px;
+    border-radius: 3px;}
+
+.box5{
+    text-align: center;
+    background-color: rgb(7, 7, 7);
+    
+}
+#coninfo{
+    color: white;
+}
+.maps{
+    text-align: center;
+    margin-top: 50px;
+}
+#location{
+    color: white;
+    text-decoration: none;
+}
+#campaings{
+    color: white;
+    text-decoration:none;
+}
+.copyright{
+    color: rgb(255, 255, 255);
+    text-align:center;
+    margin-top: 10px;
+    margin-bottom: 15px;
+    font-weight: 100;
+}
+
+.outer-box{
+    margin: 0px;
+    width: 100%;
+}
+.ranchi-monsoon{
+    background-color:rgb(244, 236, 236);
+    height: 200px;
+    margin-top: -10px;
+    text-align:center;
+}
+.social2{
+    margin-bottom: 20px;
+}
+.nav-bar{
+    position: absolute;
+    top:4%;
+    padding: 0px;
+    margin-top: -10px;
+    margin-left: 10px;
+    font-size: 1.2vw;
+}
+.content-page{
+    background-image: url(bg3.jfif);
+}
+#site-name{
+    color: red;
+    font-size:1.5vw;
+    margin-top:1vw;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+}
+.social-top{
+    position: absolute;
+    top: 1%;
+    left: 80%;
+    
+    color: white;
+    font-size: 3rem;
+
+}
+#st{
+    width: 30px;
+    height: 28px;
+    border-radius: 100px;
+
+}
+.about-me{
+    background-color: rgb(244, 236, 236);
+    margin-bottom: -50px;
+    margin-top: -0px;
+    padding: 10px;
+    text-align:center;
+}
+.content-page1{
+    background-color: rgb(244, 236, 236);
+    height: 560px;
+    margin-top: 300px;
+    text-align: center;
+    padding: 100px;
+    font-size: 1.2vw;
+    
+    margin-top: -0px;
+
+}
+div.article2{
+    background-color: red;
+    width: 100%;
+}
+h3{
+    color: white;
+}
+.mobile-view{
+    display: none;
+}
+@media(width<600px){
+.social-top{
+    display: none;
+
+}
+.mobile-view{
+    display: revert;
+    position: absolute;
+    top: 240px;
+    margin-left: 70%;
+    
+}
+#sm{
+    border-radius: 100px;
+    margin-left: -40px;
+}
+}
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+

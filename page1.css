@@ -1,0 +1,56 @@
+#banner{
+    width:100%;
+    margin-bottom:-6px;
+}
+.box{
+    background-color: rgb(139, 84, 17);
+    text-align: center;
+    margin-top: -200px;
+    width: 100%px;
+    margin: 0px;
+
+    
+   
+}
+span{
+    color: white;
+    margin-left: 150px;
+    font-style: calc();
+}
+#pages{
+    color: white;
+    text-decoration-line:none;}
+table{
+    border-collapse: separate;
+    border-spacing: 0px 0px 0px 20px;
+    width:1500px;
+    margin: 0px;
+}
+#photos{
+    color: white;
+    text-decoration-line:none;
+}
+#food{
+    color: white;
+    text-decoration-line:none;
+}  
+.article{
+    background-color:rgb(139, 84, 17);
+    color: white;
+    width: 1500px;
+    text-align: center;
+    
+}
+#content{
+    text-align: center;
+    width: 700px;
+} 
+.content{
+    text-align: center;
+} 
+.contentbox{
+    text-align: center;
+    margin-left: 15%;
+    margin-right: 15%;
+    
+}

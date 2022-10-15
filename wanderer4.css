@@ -1,0 +1,97 @@
+#banner{
+    width:100%;
+    margin-bottom:-6px;
+}
+.box{
+    background-color: rgb(139, 84, 17);
+    text-align: center;
+    margin-top: -200px;
+    width: 100%px;
+    margin: 0px;
+}
+#pages{
+    color: white;
+    text-decoration-line:none;
+}
+#photo-graph{
+    background-color: white;
+    color:rgb(194, 79, 37);
+    font-size: 1vw;
+    font-weight: 600;
+} 
+a{
+    color: white;
+    font-size:1vw;
+    margin-left: 5%;
+    margin-right: 5%;
+    text-decoration: none;
+    margin-block-end: none;
+}
+.box1{
+    width: 100%;
+
+
+}
+.content1{
+    text-align: center;
+}
+.h2{
+    background-color: rgb(139, 84, 17);
+    color: white;
+  
+    margin-top: 30px;
+    text-align: center;
+}
+#valley{
+    width: 10%;
+    height: 185px;
+    margin-top: 30px;
+}
+p{
+ 
+}
+iframe{
+    margin-left: 40px;
+    width: 10%;
+    height: 185px;
+    justify-content: center;
+    
+}
+table{
+    width: 100%;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    margin-top: -6px;
+
+}
+.copyright{
+    color: rgb(119, 110, 110);
+    margin-top: 20px;
+    padding-top: 10px;
+    margin-bottom: 15px;
+    color: white;
+}.social2{
+    margin-bottom: 20px;
+    text-align: center;
+    margin-top: 20px;
+} 
+.footer{
+    position: relative;
+    text-align: center;
+    background-color:  rgb(139, 84, 17);
+    width: 100%;
+}
+#st{
+    border-radius: 100px;
+    margin-left: 2%;
+    margin-right: 2%;
+
+    
+
+}
+a img{
+    border-radius: 100px;
+    margin-left: -20px;
+    margin-bottom: 10px;
+}

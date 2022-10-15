@@ -1,0 +1,130 @@
+*{
+    margin: 0;
+}#banner{
+    width:100%;
+    margin-bottom:-6px;
+}
+.box{
+    background-color: rgb(139, 84, 17);
+    text-align: center;
+    margin-top: -200px;
+    width: 100%;
+    margin: 0px;
+
+    
+   
+}
+a{
+    color: white;
+    font-size:1vw;
+    margin-left: 5%;
+    margin-right: 5%;
+    text-decoration: none;
+    margin-block-end: none;
+}
+#pages{
+    color: white;
+    text-decoration-line:none;}
+table{
+    border-collapse: separate;
+    border-spacing: 0px 0px 0px 20px;
+    width:1500px;
+    margin: 0px;
+}
+#photos{
+    color: white;
+    text-decoration-line:none;
+}
+#food{
+    color: white;
+    text-decoration-line:none;
+}  
+.article{
+    background-color:rgb(139, 84, 17);
+    color: white;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    width:100%;
+    text-align: center;
+    
+}
+#content{
+    text-align: center;
+    width: 700px;
+} 
+.content{
+    text-align: center;
+    margin-left: 10%;
+    margin-right: 10%;
+
+} 
+.contentbox{
+    text-align: center;
+    margin-left: 15%;
+    margin-right: 15%;
+    
+}
+#m1{
+    width: 20vw;
+    margin: 20px;
+    text-align: center;
+}
+#m2{
+    width: 19vw;
+    margin: 20px;
+    text-align: center;
+}
+#m3{
+    width: 22.5vw;
+    margin: 20px;
+    text-align: center;
+}
+#nextpage{
+    margin-top: 30px;
+    
+    background-color: royalblue;
+    font-size: 15px;
+    color: white;
+}
+#arrow{
+    background-color: royalblue;
+    color:white;}
+.buttons{
+    text-align:center;
+}
+#prev{
+    color: white;
+}
+#page2{
+    background-color: royalblue;
+}
+.copyright{
+    color: rgb(119, 110, 110);
+    margin-top: 20px;
+    padding-top: 10px;
+    margin-bottom: 15px;
+    color: white;
+}.social2{
+    margin-bottom: 20px;
+    text-align: center;
+    margin-top: 20px;
+} 
+.footer{
+    position: relative;
+    text-align: center;
+    background-color:  rgb(139, 84, 17);
+    width: 100%;
+}
+#st{
+    border-radius: 100px;
+    margin-left: 2%;
+    margin-right: 2%;
+
+    
+
+}
+a img{
+    border-radius: 100px;
+    margin-left: -20px;
+    margin-bottom: 10px;
+}

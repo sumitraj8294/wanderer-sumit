@@ -1,0 +1,151 @@
+*{
+    margin: 0;
+}
+#banner{
+    width:100%;
+    margin-bottom:-6px;
+}
+    
+a{
+    color: white;
+    font-size:1vw;
+    margin-left: 5%;
+    margin-right: 5%;
+    text-decoration: none;
+    margin-block-end: none;
+}
+
+.box{
+    background-color: rgb(139, 84, 17);
+    text-align: center;
+    margin-top: -200px;
+    width: 100%;
+    margin: 0px;
+    
+        
+}
+
+table{
+    width:100%;
+    margin: 0px;
+}
+.table2{
+    width:100%;
+    margin-top: 50px;
+
+}
+.johna{
+    margin-top: 50px;
+    background-color:  rgb(139, 84, 17);
+    color: white;
+    text-align: center;
+    border: 1px;
+    border-color: black;
+    width:100%;
+}.pic1{
+    text-align: center;
+
+
+}
+.pic2{
+    text-align: center;
+
+
+}
+.pic3{
+    text-align: center;
+
+
+}
+.pic4{
+    text-align: center;
+
+
+}
+.pic5{
+    text-align: center;
+    
+
+
+}
+#johnaimg{
+    width: 20vw;
+}
+#landimg{
+    width: 20vw;
+} 
+#jungle{
+    width: 20vw;
+}
+#waterfall2{
+    width: 20vw;
+}
+#pose{
+    width: 20vw;
+}  
+#bhutan4{
+    width: 20vw;
+}  
+#bhutan3{
+    width: 20vw;
+} 
+#bhutan1{
+    width: 20vw;
+} 
+#bhutan2{
+    width: 20vw;
+} 
+#bhutan5{
+    width: 20vw;
+}
+#photo-graph{
+    background-color: white;
+    color:rgb(194, 79, 37);
+    font-size: 1vw;
+    font-weight: 600;
+} 
+.copyright{
+    color: rgb(119, 110, 110);
+    margin-top: 10px;
+    margin-bottom: 15px;
+    color: white;
+}.social2{
+    margin-bottom: 20px;
+    text-align: center;
+    margin-top: 20px;
+} 
+.footer{
+    position: relative;
+    text-align: center;
+    background-color:  rgb(139, 84, 17);
+    width: 100%;
+}
+#st{
+    border-radius: 100px;
+    margin-left: 20px;
+
+    
+
+}
+a img{
+    border-radius: 100px;
+}
+tr{
+    width: 100%;
+}
+table{
+    width: 100%;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    margin-top: -6px;
+
+}
+.table2{
+    width: 100%;
+}
+.outer-box{
+    width: 100%;
+}
+
+
